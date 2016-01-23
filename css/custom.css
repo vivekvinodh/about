@@ -53,12 +53,7 @@ p{
 }
 
 .social-content{
-    position: absolute;
-    bottom: 0;
-    width: 150px;
-    right:25%;
-    left:50%;
-    margin-left:-75px;
+    margin: 0 auto;
     padding-bottom: 15px;
 }
 
@@ -211,17 +206,22 @@ p{
   }
 }
 
+.life{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
 /*CHANGING LETTERS*/
 .wrapper {
-margin: 0px auto;
-margin-top: 10px;
+  margin: 0px auto;
+  margin-top: 10px;
   top: 50%;
-  left: 50%;
-  width: 90%;
   font-size: 0;
   -webkit-transform: translate(-50%);
       -ms-transform: translate(-50%);
           transform: translate(-50%);
+  margin: 0 auto;
 }
 
 .letter {
