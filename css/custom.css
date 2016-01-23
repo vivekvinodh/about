@@ -53,7 +53,7 @@ p{
 }
 
 .social-content{
-    position: static;
+    position: absolute;
     bottom: 0;
     width: 150px;
     right:25%;
