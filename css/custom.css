@@ -53,13 +53,14 @@ p{
 }
 
 .social-content{
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 150px;
     right:25%;
     left:50%;
     margin-left:-75px;
     padding-bottom: 15px;
+    background-color: #120525;
 }
 
 .centered {
